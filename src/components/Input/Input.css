@@ -1,0 +1,27 @@
+#cmd {
+    font-family: courier;
+    font-size: 14px;
+    background: black;
+    color: green;
+    padding: 5px;
+    overflow: hidden;
+    max-width: 500px;
+  }
+  #cmd span {
+    float: left;
+    white-space: pre;
+  }
+  #cursor {
+    float: left;
+    width: 5px;
+    height: 14px;
+    background: green;
+  }
+  input {
+    color: black;
+    background-color: black;
+    border: none;
+    pointer-events: none;
+    -webkit-appearance: none;
+    outline: none;
+  }

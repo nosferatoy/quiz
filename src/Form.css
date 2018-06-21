@@ -1,0 +1,6 @@
+.msgWrapper {
+  width: -moz-available;
+  width: -webkit-fill-available;
+  }
+
+  .hidden { display:none; }
